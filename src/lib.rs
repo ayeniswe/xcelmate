@@ -1,2 +1,3 @@
-mod stream;
-mod errors;
+pub mod stream;
+pub mod errors;
+mod tests;
